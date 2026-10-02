@@ -2,7 +2,7 @@
 
 - Login GitHub / pseudonim: michnieww
 - System i terminal (np. Windows + WSL Ubuntu): Windows
-- Edytor / IDE: ...
+- Edytor / IDE: Visual Studio Code
 - Wersja Git: git version 2.36.1.windows.1
 - Wersja kompilatora C++: g++.exe (Rev2, Built by MSYS2 project) 14.2.0
 - Wersje java i javac: openjdk 11.0.16.1 2022-08-12 LTS, javac 11.0.16.1
@@ -11,11 +11,11 @@
 ## Uruchomienie lokalne
 Wynik programu C++:
 ```text
-...
+Hello from C++!
 ```
 Wynik programu Java:
 ```text
-...
+Hello from Java!
 ```
 
 ## Błąd i poprawka (zadanie 5)
