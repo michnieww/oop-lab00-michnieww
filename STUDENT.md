@@ -19,10 +19,10 @@ Hello from Java user:bbbbbbbbbb!
 ```
 
 ## Błąd i poprawka (zadanie 5)
-- Krótki fragment komunikatu błędu i numer linii: 5
+- Krótki fragment komunikatu błędu i numer linii: Error: Process completed with exit code 1. nr linii:5
 - Przyczyna oraz sposób naprawy: dodania z powrotem średnika
-- Commit z błędem (SHA lub link): ...
-- Czy Actions pokazały błąd, a po naprawie sukces? ...
+- Commit z błędem (SHA lub link): https://github.com/michnieww/oop-lab00-michnieww/actions/runs/37018520207
+- Czy Actions pokazały błąd, a po naprawie sukces? tak
 
 ## Krótkie odpowiedzi
 1. Co różni commit od push? ...
