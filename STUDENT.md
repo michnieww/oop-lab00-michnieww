@@ -30,4 +30,4 @@ Hello from Java user:bbbbbbbbbb!
 3. Co potwierdza zielony wynik naszego CI, a czego nie potwierdza? potwierdza że kod sie kompiluje i uruchamia
 
 ## Ewentualne problemy środowiska
-Brak / opis problemu i sposób rozwiązania: ...
+Brak 
